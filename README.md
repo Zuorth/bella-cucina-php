@@ -1,6 +1,6 @@
 # Bella Cucina – PHP Header/Footer Site
 
-A small restaurant website showing how to reuse a header and footer with PHP `include()` (Chapter 5).
+A small restaurant website showing how to reuse a header and footer with PHP `include()`.
 
 ## Files
 | File | Purpose |
